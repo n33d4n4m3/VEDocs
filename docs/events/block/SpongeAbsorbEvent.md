@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SpongeAbsorbEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/SpongeAbsorbEvent
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockMultiPlaceEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockMultiPlaceEvent
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockFertilizeEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockFertilizeEvent
 ---
 

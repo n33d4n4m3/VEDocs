@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockCookEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockCookEvent
 ---
 

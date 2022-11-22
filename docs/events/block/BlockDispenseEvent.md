@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockDispenseEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockDispenseEvent
 ---
 

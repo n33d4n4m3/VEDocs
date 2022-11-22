@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MoistureChangeEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/MoistureChangeEvent
 ---
 

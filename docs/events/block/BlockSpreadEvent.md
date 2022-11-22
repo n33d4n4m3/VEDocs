@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockSpreadEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockSpreadEvent
 ---
 

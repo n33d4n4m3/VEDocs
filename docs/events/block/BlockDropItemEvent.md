@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockDropItemEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockDropItemEvent
 ---
 

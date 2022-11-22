@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockFromToEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockFromToEvent
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LeavesDecayEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/LeavesDecayEvent
 ---
 

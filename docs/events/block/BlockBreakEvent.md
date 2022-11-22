@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockBreakEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockBreakEvent
 ---
 

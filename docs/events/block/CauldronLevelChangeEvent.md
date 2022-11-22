@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CauldronLevelChangeEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/CauldronLevelChangeEvent
 ---
 

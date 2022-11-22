@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockPistonRetractEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockPistonRetractEvent
 ---
 

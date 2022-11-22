@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockReceiveGameEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockReceiveGameEvent
 ---
 

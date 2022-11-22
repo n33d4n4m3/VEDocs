@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockCanBuildEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockCanBuildEvent
 ---
 

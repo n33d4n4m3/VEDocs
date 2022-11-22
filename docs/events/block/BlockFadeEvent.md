@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockFadeEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockFadeEvent
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockPistonEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockPistonEvent
 ---
 

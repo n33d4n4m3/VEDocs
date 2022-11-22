@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockGrowEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockGrowEvent
 ---
 

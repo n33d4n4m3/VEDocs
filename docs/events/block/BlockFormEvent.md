@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockFormEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockFormEvent
 ---
 

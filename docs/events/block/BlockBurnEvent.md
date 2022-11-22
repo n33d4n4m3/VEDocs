@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockBurnEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockBurnEvent
 ---
 

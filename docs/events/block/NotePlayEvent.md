@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NotePlayEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/NotePlayEvent
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BlockRedstoneEvent
-parent: Block
+parent: Block Events
 permalink: /events/block/BlockRedstoneEvent
 ---
 
