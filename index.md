@@ -10,7 +10,7 @@ permalink: /
 
 ---
 
-This wiki aims to fully document the VanillaEvents (VE) datapack - including all event types that have already been added and those that are only planned so far. 
+This wiki aims to fully document the VanillaEvents (VE) datapack - including all event types that have already been added and those that are only planned so far.
 
 The following pages might be useful for you, if you
 - want to use an existing datapack that requires VE, and you need help installing VE in your world. (-> [Installation](test))
@@ -19,7 +19,3 @@ The following pages might be useful for you, if you
 - want to contribute to VE. (-> [Onboarding](test))
 
 If you just want to learn about events and data you can extract from them, the Events page is a good start. (-> [Events](Events))
-
-<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Dark mode'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Light mode'; } }); </script>
-
-
