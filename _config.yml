@@ -4,5 +4,10 @@ theme: just-the-docs
 
 url: https://n33d4n4m3.github.io/VEDocs
 
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  
