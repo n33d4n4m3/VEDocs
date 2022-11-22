@@ -2,7 +2,7 @@
 layout: default
 title: BlockDispenseArmorEvent
 parent: Block Events
-grand-parent: Events
+grand_parent: Events
 permalink: /events/block/BlockDispenseArmorEvent
 ---
 
