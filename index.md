@@ -20,4 +20,6 @@ The following pages might be useful for you, if you
 
 If you just want to learn about events and data you can extract from them, the Events page is a good start. (-> [Events](Events))
 
+<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Dark mode'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Light mode'; } }); </script>
+
 
