@@ -4,6 +4,9 @@ theme: just-the-docs
 
 url: https://n33d4n4m3.github.io/VEDocs
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
