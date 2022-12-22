@@ -16,7 +16,7 @@ VanillaEvents is intended to be a datapack to assist other developers in develop
 ## Events?
 Did you move? Did you attack a cow? Did you go to sleep? It's planned that each of these actions will trigger an event in the VanillaEvents datapack. An event is a short temporary state that is triggered depending on the event's destination. Since VanillaEvents should always be the first datapack to execute in a gametick, other datapacks can now access this information, evaluate details and even modify it in some cases.
 
-# Example
+## Example
 Let's suppose you want to check in the datapack you are developing whether the player is looking up while climbing a ladder. If he doesn't look up, you want the movement to be stopped.
 
 If you have VanillaEvents installed in your world and the PlayerMoveEvent is enabled, you can implement exactly this task with an Oneliner.
