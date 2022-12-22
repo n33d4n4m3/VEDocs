@@ -18,8 +18,3 @@ The following pages might be useful for you, if you
 - want to contribute to VE. -> [Onboarding](test)
 
 If you just want to learn about events and data you can extract from them, the Events page is a good start. -> [Events](Events)
-
-```mcfunction
-scoreboard players add @s test 1
-}
-```
