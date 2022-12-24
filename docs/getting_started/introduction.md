@@ -23,12 +23,17 @@ If you have VanillaEvents installed in your world and the PlayerMoveEvent is ena
 execute as @e[tag=VE.PlayerMoveEvent] if score @s VEGbl.thePlayer.currentMovementState matches 5 if score @s VE.PlayerMoveEvent.hasClimbed matches 1 unless score @s VE.PlayerMoveEvent.toPitch matches -9000 run scoreboard players set @s VE.PlayerMoveEvent.willModify 1
 ```
 
-| Command part                                                  | explanation                                                           |
+
+| Command part                                                  | Explanation                                                           |
 |:--------------------------------------------------------------|:----------------------------------------------------------------------|
-| @e[tag=VE.PlayerMoveEvent]                                    | Select all players with an fired PlayerMoveEvent (the player moved)   |
+| @e[tag=VE.PlayerMoveEvent]                                    | Select all players with a fired PlayerMoveEvent (the player moved)    |
 | if score @s VEGbl.thePlayer.currentMovementState matches 5    | Only select the players with the Movement State 5 (Climbing)          |
 | if score @s VE.PlayerMoveEvent.hasClimbed matches 1           | Check if the player has a higher Y-Coord than before                  |
 | unless score @s VE.PlayerMoveEvent.toPitch matches -9000      | Check if the player doesn't look straight up                          |
 | scoreboard players set @s VE.PlayerMoveEvent.willModify 1     | Modify the event (teleport the player to his pre-event location)      |
+
+
+In order for an event to be queried, it must first be enabled. This is necessary because otherwise VanillaEvents would permanently check the triggers of all existing events, while only a fraction of them is needed by the datapacks. To enable an event, see -> [Setup](/VEDocs/getting_started/setup)
+
 
 
