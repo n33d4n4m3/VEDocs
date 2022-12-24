@@ -14,3 +14,7 @@ search_enabled: true
 aux_links:
   GitHub Repository: https://github.com/n33d4n4m3/VanillaEvents
   
+callouts:
+  warning:
+    title: Warning
+    color: red
