@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PlayerMoveEvent
+title: PlayerMovementStateTransitionEvent
 parent: Player Events
 grand_parent: Events
 permalink: /events/player/PlayerMovementStateTransitionEvent
