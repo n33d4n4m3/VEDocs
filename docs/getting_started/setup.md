@@ -20,8 +20,6 @@ To work with VE, the directory named "VanillaEvents" (the folder must be named e
 
 **If VanillaEvents was only installed as a dependency for another datapack, you are now done. Have fun!**
 
----
-
 If you want to develop a datapack using the features of VanillaEvents, continue with the next section.
 
 ## Register Events
@@ -30,6 +28,6 @@ If you have found an interesting event in the [Events Category](/VEDocs/events) 
 To enable/register an event, use the following command, ideally in your load function.
 ```scoreboard players add VESys.EVENTNAME 1```
 
-Replace EVENTNAME with the case sensitive name mentioned in the events documentation.
-For example: PlayerMoveEvent, BatToggleSleepEvent, PlayerMovementStateTransitionEvent.
+Replace __EVENTNAME__ with the case sensitive name mentioned in the events documentation.
+For example: [PlayerMoveEvent](/VEDocs/events/player/PlayerMoveEvent), [BatToggleSleepEvent](/VEDocs/events/entity/BatToggleSleepEvent), [PlayerMovementStateTransitionEvent](/VEDocs/events/player/PlayerMovementStateTransitionEvent).
 
