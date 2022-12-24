@@ -17,7 +17,7 @@ The following pages might be useful for you, if you
 - want to fork the project and add your own events -> [Build Upon](test)
 - want to contribute to VE. -> [Onboarding](test)
 
-If you just want to learn about events and data you can extract from them, the Events page is a good start. -> [Events](Events)
+If you just want to learn about events and data you can extract from them, the Events page is a good start. -> [Events](events)
 
 ## Don't know where to start?
--> [Introduction](/getting_started/introduction)
+-> [Introduction](/VEDocs/getting_started/introduction)

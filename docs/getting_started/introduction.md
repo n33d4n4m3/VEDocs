@@ -23,5 +23,11 @@ If you have VanillaEvents installed in your world and the PlayerMoveEvent is ena
 execute as @e[tag=VE.PlayerMoveEvent] if score @s VEGbl.thePlayer.currentMovementState matches 5 if score @s VE.PlayerMoveEvent.hasClimbed matches 1 unless score @s VE.PlayerMoveEvent.toPitch matches -9000 run scoreboard players set @s VE.PlayerMoveEvent.willModify 1
 ```
 
+| Command part | explanation       |
+|:-------------|:------------------|
+| ok           | good swedish fish |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
 
 
